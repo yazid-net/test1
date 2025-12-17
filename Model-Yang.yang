@@ -4,6 +4,7 @@ module simple-system {
   prefix "sys";
 
   // Métadonnées
+// c'est qu'un test de modification
   organization "Demo Lab";
   description
     "Un modèle YANG très simple pour la démo.";
